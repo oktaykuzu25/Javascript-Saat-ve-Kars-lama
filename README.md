@@ -1,1 +1,1 @@
-# JS-saat-ve-kar-lama
+# JS-saat-ve-karşılama
